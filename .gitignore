@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# 產生的報表（內含本機路徑）
+dir_diff_*.html
+*.csv
