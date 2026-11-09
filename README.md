@@ -1,4 +1,4 @@
-# FileDiff
+# FolderDiff
 
 比較兩個目錄的差異，並輸出 HTML 報表。
 
